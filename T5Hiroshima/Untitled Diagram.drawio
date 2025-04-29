@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1" version="26.2.14">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="627" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#FFE599" math="0" shadow="0">
+    <mxGraphModel dx="1568" dy="2512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#FFE599" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -135,13 +135,13 @@
         <mxCell id="JoN7KsLRaaK6xxKw_jyw-33" value="" style="line;html=1;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="JoN7KsLRaaK6xxKw_jyw-28" vertex="1">
           <mxGeometry y="130" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="OmoUH2IWQq69Jm8DR1YI-1" value="&lt;font style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot; face=&quot;Helvetica&quot;&gt;2.&amp;nbsp;&lt;span&gt;Hotel Higashihiroshima Hills Saijo&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font&gt;1.43man semi&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: rgb(31, 31, 31);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;h3 style=&quot;padding: 0px; margin: 0px; box-sizing: border-box; font-weight: normal; font-family: Lato, &amp;quot;Noto Sans JP&amp;quot;, &amp;quot;ヒラギノ角ゴ ProN&amp;quot;, &amp;quot;Hiragino Kaku Gothic ProN&amp;quot;, メイリオ, Meiryo, &amp;quot;ＭＳ Ｐゴシック&amp;quot;, &amp;quot;MS PGothic&amp;quot;, sans-serif;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;〒739-0005&lt;br style=&quot;padding: 0px; margin: 0px; box-sizing: border-box;&quot;&gt;広島県東広島市西条大坪町2-13&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="JoN7KsLRaaK6xxKw_jyw-28">
+        <mxCell id="OmoUH2IWQq69Jm8DR1YI-1" value="&lt;font style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot; face=&quot;Helvetica&quot;&gt;2.&amp;nbsp;&lt;span&gt;Hotel Higashihiroshima Hills Saijo&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font&gt;1.43man semi&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: rgb(31, 31, 31);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;h3 style=&quot;padding: 0px; margin: 0px; box-sizing: border-box; font-weight: normal; font-family: Lato, &amp;quot;Noto Sans JP&amp;quot;, &amp;quot;ヒラギノ角ゴ ProN&amp;quot;, &amp;quot;Hiragino Kaku Gothic ProN&amp;quot;, メイリオ, Meiryo, &amp;quot;ＭＳ Ｐゴシック&amp;quot;, &amp;quot;MS PGothic&amp;quot;, sans-serif;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;〒739-0005&lt;br style=&quot;padding: 0px; margin: 0px; box-sizing: border-box;&quot;&gt;広島県東広島市西条大坪町2-13&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="JoN7KsLRaaK6xxKw_jyw-28" vertex="1">
           <mxGeometry y="138" width="160" height="132" as="geometry" />
         </mxCell>
-        <mxCell id="OmoUH2IWQq69Jm8DR1YI-11" value="" style="line;html=1;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="JoN7KsLRaaK6xxKw_jyw-28">
+        <mxCell id="OmoUH2IWQq69Jm8DR1YI-11" value="" style="line;html=1;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="JoN7KsLRaaK6xxKw_jyw-28" vertex="1">
           <mxGeometry y="270" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="OmoUH2IWQq69Jm8DR1YI-8" value="&lt;font face=&quot;Helvetica&quot;&gt;3.&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Bar 39&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;2.56 man&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(42, 42, 46);&quot;&gt;Deluxe Double&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#2a2a2e&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#1f1f1f&quot;&gt;〒739-0023 Hiroshima, Higashihiroshima, 西条町下三永833-1 ホテルアミー&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="JoN7KsLRaaK6xxKw_jyw-28">
+        <mxCell id="OmoUH2IWQq69Jm8DR1YI-8" value="&lt;font face=&quot;Helvetica&quot;&gt;3.&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Bar 39&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;2.56 man&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(42, 42, 46);&quot;&gt;Deluxe Double&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#2a2a2e&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#1f1f1f&quot;&gt;〒739-0023 Hiroshima, Higashihiroshima, 西条町下三永833-1 ホテルアミー&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="JoN7KsLRaaK6xxKw_jyw-28" vertex="1">
           <mxGeometry y="278" width="160" height="132" as="geometry" />
         </mxCell>
         <mxCell id="JoN7KsLRaaK6xxKw_jyw-38" value="Trong xe oto" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
@@ -220,44 +220,56 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Map" link="https://www.google.co.jp/maps/place/Hotel+Higashi-Hiroshima+Hills+Saijo+shop+(formerly+hotels+Eagle)/@34.4243621,132.7364034,3653m/data=!3m1!1e3!4m20!1m8!2m7!1sHotels!5m4!5m3!1s2025-05-04!4m1!1i2!6e3!3m10!1s0x355065817c6459cd:0x2ced8d753bdc04db!5m3!1s2025-05-04!4m1!1i2!8m2!3d34.4243621!4d132.749649!15sCgZIb3RlbHOSAR1qYXBhbmVzZV9zdHlsZV9idXNpbmVzc19ob3RlbKoBOhABKgoiBmhvdGVscygAMh4QASIainsixGVQ51rDIRxGAWYdQunD1rZjbCyu2qAyChACIgZob3RlbHPgAQA!16s%2Fg%2F1vlj_cgg?entry=ttu&amp;g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D" id="OmoUH2IWQq69Jm8DR1YI-2">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#67AB9F;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#67AB9F;" parent="1" vertex="1">
             <mxGeometry x="810" y="520" width="70" height="34" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Agoda" link="https://www.agoda.com/vi-vn/hotel-higashihiroshima-hills-saijo/hotel/higashihiroshima-jp.html?countryId=3&amp;finalPriceView=2&amp;isShowMobileAppPrice=false&amp;cid=1917614&amp;numberOfBedrooms=&amp;familyMode=false&amp;adults=2&amp;children=0&amp;rooms=1&amp;maxRooms=0&amp;checkIn=2025-05-4&amp;isCalendarCallout=false&amp;childAges=&amp;numberOfGuest=0&amp;missingChildAges=false&amp;travellerType=1&amp;showReviewSubmissionEntry=false&amp;currencyCode=JPY&amp;isFreeOccSearch=false&amp;tspTypes=3%2C8&amp;los=1&amp;searchrequestid=975b7974-3e19-4d31-9104-3946385a2311&amp;ds=V9WFqc2sA6UHraZE" id="OmoUH2IWQq69Jm8DR1YI-3">
-          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CDA2BE;" vertex="1" parent="1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CDA2BE;" parent="1" vertex="1">
             <mxGeometry x="840" y="585" width="40" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="OmoUH2IWQq69Jm8DR1YI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OmoUH2IWQq69Jm8DR1YI-1" target="OmoUH2IWQq69Jm8DR1YI-2">
+        <mxCell id="OmoUH2IWQq69Jm8DR1YI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OmoUH2IWQq69Jm8DR1YI-1" target="OmoUH2IWQq69Jm8DR1YI-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OmoUH2IWQq69Jm8DR1YI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OmoUH2IWQq69Jm8DR1YI-1" target="OmoUH2IWQq69Jm8DR1YI-3">
+        <mxCell id="OmoUH2IWQq69Jm8DR1YI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OmoUH2IWQq69Jm8DR1YI-1" target="OmoUH2IWQq69Jm8DR1YI-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Web" link="https://breezbay-group.com/higashihiroshima-hills/" id="OmoUH2IWQq69Jm8DR1YI-6">
-          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CDA2BE;" vertex="1" parent="1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CDA2BE;" parent="1" vertex="1">
             <mxGeometry x="840" y="640" width="40" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="OmoUH2IWQq69Jm8DR1YI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OmoUH2IWQq69Jm8DR1YI-1" target="OmoUH2IWQq69Jm8DR1YI-6">
+        <mxCell id="OmoUH2IWQq69Jm8DR1YI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OmoUH2IWQq69Jm8DR1YI-1" target="OmoUH2IWQq69Jm8DR1YI-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Agoda" link="https://www.agoda.com/vi-vn/bar-39/hotel/all/higashihiroshima-jp.html?countryId=3&amp;finalPriceView=2&amp;isShowMobileAppPrice=false&amp;cid=1846344&amp;numberOfBedrooms=&amp;familyMode=false&amp;adults=2&amp;children=0&amp;rooms=1&amp;maxRooms=0&amp;checkIn=2025-05-4&amp;isCalendarCallout=false&amp;childAges=&amp;numberOfGuest=0&amp;missingChildAges=false&amp;travellerType=1&amp;showReviewSubmissionEntry=false&amp;currencyCode=JPY&amp;isFreeOccSearch=false&amp;tag=f461c819-e801-45f3-b001-0ad85ff07dc9&amp;tspTypes=1&amp;los=1&amp;searchrequestid=242e042a-6a69-43ee-a946-0a8e1cd31f01&amp;ds=EYyl10mI%2FShp3YTa" id="OmoUH2IWQq69Jm8DR1YI-9">
-          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CDA2BE;" vertex="1" parent="1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CDA2BE;" parent="1" vertex="1">
             <mxGeometry x="840" y="690" width="40" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="OmoUH2IWQq69Jm8DR1YI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OmoUH2IWQq69Jm8DR1YI-8" target="OmoUH2IWQq69Jm8DR1YI-9">
+        <mxCell id="OmoUH2IWQq69Jm8DR1YI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OmoUH2IWQq69Jm8DR1YI-8" target="OmoUH2IWQq69Jm8DR1YI-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Map" link="https://www.google.co.jp/maps/place/Bar39/@34.3930902,132.751927,3654m/data=!3m1!1e3!4m20!1m8!2m7!1sHotels!5m4!5m3!1s2025-05-04!4m1!1i2!6e3!3m10!1s0x35506f3f5d825fe7:0x589a5655f7186d32!5m3!1s2025-05-04!4m1!1i2!8m2!3d34.3930902!4d132.7699514!15sCgZIb3RlbHOSAQVob3RlbKoBOhABKgoiBmhvdGVscygAMh4QASIainsixGVQ51rDIRxGAWYdQunD1rZjbCyu2qAyChACIgZob3RlbHPgAQA!16s%2Fg%2F11ffgnv9_6?entry=ttu&amp;g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D" id="OmoUH2IWQq69Jm8DR1YI-12">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#67AB9F;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#67AB9F;" parent="1" vertex="1">
             <mxGeometry x="820" y="740" width="70" height="34" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="OmoUH2IWQq69Jm8DR1YI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OmoUH2IWQq69Jm8DR1YI-8" target="OmoUH2IWQq69Jm8DR1YI-12">
+        <mxCell id="OmoUH2IWQq69Jm8DR1YI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="OmoUH2IWQq69Jm8DR1YI-8" target="OmoUH2IWQq69Jm8DR1YI-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PRJlGh3R_WRJZeFX7G7E-2" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JoN7KsLRaaK6xxKw_jyw-60" target="78961159f06e98e8-17">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="1390" y="161" as="sourcePoint" />
+            <mxPoint x="160" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1540" y="870" />
+              <mxPoint x="30" y="870" />
+              <mxPoint x="30" y="50" />
+              <mxPoint x="170" y="50" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
